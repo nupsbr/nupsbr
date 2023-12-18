@@ -17,7 +17,7 @@
 </br>
 </br>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/higor-pedron-29531b265/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/paulo-vinicius-da-silva-14198a257)
 [![Blog](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
 
 Apaixonado por tecnologia e sempre buscando cada vez mais me aperfeiçoar!
