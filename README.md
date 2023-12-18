@@ -12,7 +12,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=nupsbr&show_icons=true&theme=tokyonight" width="707" height="auto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupsbr&layout=pie&theme=tokyonight" width="" height="auto" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloViniciusDaSilva&layout=pie&theme=tokyonight" width="" height="auto" />
 </div>
 </br>
 </br>
