@@ -19,6 +19,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/paulo-vinicius-da-silva-14198a257)
 [![Blog](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
-[![Blog](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Blog](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 Apaixonado por tecnologia e sempre buscando cada vez mais me aperfeiçoar!
